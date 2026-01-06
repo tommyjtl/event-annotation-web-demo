@@ -2,6 +2,10 @@
 
 This was a take-home project for a Product Engineer role I interviewed for a while ago. It's a web application for visualizing, triaging, and annotating time-series events with an interactive timeline, allowing users to import event data, filter and search through events, and generate reports from annotated events.
 
+![](./data/Screenshot%202025-07-14%20at%2023.19.45.png)
+
+![](./data/Screenshot%202025-07-14%20at%2023.49.46.png)
+
 Below are some of the notes doing the implementation.
 
 ---
