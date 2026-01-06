@@ -1,0 +1,48 @@
+[
+    {
+        "type": "Deployment",
+        "short": "User service hotfix deploy",
+        "user": "carol",
+        "description": "Deployed urgent hotfix v2.1.7 for user-service to patch login bug.",
+        "time": "2025-07-14T02:12:33.000Z"
+    },
+    {
+        "type": "Deployment",
+        "short": "Frontend static assets CDN update",
+        "user": "daniel",
+        "description": "Updated frontend static assets on CDN with cache busting for v6.4.0.",
+        "time": "2025-07-14T03:05:50.000Z"
+    },
+    {
+        "type": "MetricAnomoly",
+        "short": "API error rate surge checkout",
+        "metric": "api_checkout_error_rate",
+        "description": "Checkout API error rate spiked from 0.2% to 7.8% over 10 minutes.",
+        "time": "2025-07-14T04:22:10.000Z"
+    },
+    {
+        "type": "MetricAnomoly",
+        "short": "Memory usage climbing product pods",
+        "metric": "product_memory_usage_mb",
+        "description": "Product-service pods memory usage increased steadily, approaching resource limits.",
+        "time": "2025-07-14T05:41:00.000Z"
+    },
+    {
+        "type": "LogAnomoly",
+        "short": "Unexpected 502s on cart API",
+        "description": "Cart API logs showing intermittent 502 Bad Gateway responses from upstream.",
+        "time": "2025-07-14T07:18:00.000Z"
+    },
+    {
+        "type": "LogAnomoly",
+        "short": "JWT signature validation failures",
+        "description": "Observed spike in JWT signature validation errors on public endpoints.",
+        "time": "2025-07-14T07:32:00.000Z"
+    },
+    {
+        "type": "LogAnomoly",
+        "short": "Kubelet disk pressure warning",
+        "description": "Node kubelet reported disk pressure, triggering pod evictions on node-pool-2.",
+        "time": "2025-07-14T08:05:00.000Z"
+    }
+]
