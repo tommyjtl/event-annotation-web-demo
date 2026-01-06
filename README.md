@@ -6,7 +6,7 @@ This was a take-home project for a Product Engineer role I interviewed for a whi
 
 ![](./data/Screenshot%202025-07-14%20at%2023.49.46.png)
 
-Below are some of the notes doing the implementation.
+Below are some of the notes during the implementation.
 
 ---
 
